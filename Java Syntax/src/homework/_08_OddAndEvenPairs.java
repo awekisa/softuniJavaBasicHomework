@@ -3,6 +3,7 @@ package homework;
 import java.util.Scanner;
 
 /**
+ **
  * Created by xxx on 3/19/2016.
  */
 public class _08_OddAndEvenPairs {
